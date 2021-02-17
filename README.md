@@ -9,37 +9,14 @@
 &nbsp;
 
 My name is Arish and I am a Fullstack Web Developer. I am open to jobs revolving around either Fullstack Web Development or Backend development. I am open to both onsite and remote opportunities.
-Here are my main skills: :blush:
-✔︎Front-end : :star:
-   - Vue.js (Vue2, Vue3(Composition API), Nuxt.js, Vuetify)
-   - React.js (Redux.js, Next.js, Gatsby.js)
-    - Ember.js
-    - Typescript
 
-✔︎Back-end : :star:
- - Ruby On Rails, J2EE(Spring MVC, SpringBoot, Hibernate), CI, GraphQL (Apollo, Hasura), Node
- -
-✔︎CMS : :star:
-- WordPress, Shopify, Drupal
-
-✔︎API Development : :star:
-- Google Maps API, Mapbox API,
-- Chargebee, ActiveCampaign API, Weather API.
-
-✔︎Nodejs frameworks  : :star:
-- Express.js, Socket.io, Meteor.js
-
-✔︎Database : :star:
-- MongoDB, MySQL, Postgresql
-
-✔︎Clouding Services : :star:
-- AWS, Azure, and Google Firebase
-
-✔︎ Scrum / Agile Environments : :star:
-- Github, Bitbucket, Gitlab, SVN, VSTS, Jira, Trello
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@Arish](https://www.linkedin.com/in/arish-khan-784065104);
+- ✨ **Wanna Talk?** [calendly](https://calendly.com/arish-thegalaxybea/15min)
+- 📝 [Resume]
 
 ### Languages
-
 [![Ruby On Rails](https://img.shields.io/badge/-Ruby_On_Rails-000?&logo=ruby)](https://github.com/Arish-theGalaxyBea?tab=repositories&q=&type=&language=python)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/Arish-theGalaxyBea?tab=repositories&q=&type=&language=javascript)
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/Arish-theGalaxyBea?tab=repositories&q=&type=&language=c)
